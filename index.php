@@ -15,6 +15,7 @@
           <li class="nav-item"><a class="nav-link" href="sobre.html">Sobre mí</a></li>
           <li class="nav-item"><a class="nav-link" href="servicios.html">Servicios</a></li>
           <li class="nav-item"><a class="nav-link" href="contacto.html">Contacto</a></li>
+          <li class="nav-item"><a class="nav-link" href="nueva-seccion.html">Nueva Sección</a></li>
         </ul>
       </div>
     </div>
