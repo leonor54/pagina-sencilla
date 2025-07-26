@@ -18,6 +18,7 @@
           <li class="nav-item"><a class="nav-link" href="nueva-seccion.html">Proyectos</a></li>
           <li class="nav-item"><a class="nav-link" href="nueva-seccion.html">RRHH</a></li>
           <li class="nav-item"><a class="nav-link" href="nueva-seccion.html">Filiales</a></li>
+          <li class="nav-item"><a class="nav-link" href="nueva-seccion.html">Contrataciones</a></li>
         </ul>
       </div>
     </div>
