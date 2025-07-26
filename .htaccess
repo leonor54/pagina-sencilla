@@ -1,0 +1,5 @@
+# Archivo por defecto
+DirectoryIndex index.html
+
+# Evitar que se vea el contenido de carpetas
+Options -Indexes
