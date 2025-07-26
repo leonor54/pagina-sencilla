@@ -15,12 +15,18 @@
           <li class="nav-item"><a class="nav-link" href="sobre.html">Sobre mí</a></li>
           <li class="nav-item"><a class="nav-link" href="servicios.html">Servicios</a></li>
           <li class="nav-item"><a class="nav-link" href="contacto.html">Contacto</a></li>
-          <li class="nav-item"><a class="nav-link" href="nueva-seccion.html">Nueva Sección</a></li>
+          <li class="nav-item"><a class="nav-link" href="nueva-seccion.html">Proyectos</a></li>
+          <li class="nav-item"><a class="nav-link" href="nueva-seccion.html">RRHH</a></li>
+          <li class="nav-item"><a class="nav-link" href="nueva-seccion.html">Filiales</a></li>
         </ul>
       </div>
     </div>
   </nav>
-
+  <div class="container mt-5">
+    <h1>Bienvenido a mi sitio web</h1>
+    <p>Esta es la página de inicio.</p>
+  </div>
+  <!-- Cambio temporal para probar stash -->
   <header class="bg-primary text-white text-center py-5">
     <h1>Bienvenido</h1>
     <p>Esta es la página de inicio.</p>
